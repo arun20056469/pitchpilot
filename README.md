@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PitchPilot
 
 PitchPilot is a React and TypeScript project that helps developer candidates prepare a clear 5-7 minute project explanation video. It turns the video preparation process into a polished workspace with a protected setup screen, reusable dashboard components, technical contribution checklists, challenge stories, rehearsal timing, local persistence, and an auto-generated speaking guide.
@@ -53,3 +54,6 @@ Use `VIDEO_EXPLANATION_GUIDE.md` for a quick 5-7 minute explanation flow. The mo
 - You simulated API behavior through async service functions and persisted data in local storage.
 - You implemented a protected workspace flow where the dashboard appears only after candidate setup.
 - You improved UX with responsive layouts, clear timing feedback, and editable preparation notes.
+=======
+# pitchpilot
+>>>>>>> a662b653d902efd771fd4ef84cef5d186ed3cf35
